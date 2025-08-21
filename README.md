@@ -29,7 +29,6 @@ Repositório criado para minha biografia no GitHub.
 
 ![GitHub followers](https://img.shields.io/github/followers/VitorSouza?style=social)
 ![GitHub repo stars](https://img.shields.io/github/stars/VitorSouza?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/seuusuario?style=social)
-
+[![Twitter Follow](https://img.shields.io/twitter/follow/seuusuario?style=social)](https://twitter.com/seuusuario)
 --
 ⭐ Fortes interesses em me aprimorar em áreas, Ex.: Economia, T.I. e Administração
