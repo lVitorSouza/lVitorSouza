@@ -1,6 +1,8 @@
 # meu-perfil
 Repositório criado para minha biografia no GitHub.
 
+![Gif Criativo](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3NocTkyZ3RyMndidmg5bzV2Y2hwZXExNXphdG9id3M1ajJpeG9odCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VeT5jhseHD0W3dI7de/giphy.gif)
+
 # 👋 Olá, eu sou o Vítor Gabriel de Souza
 
 🎓 Estudante do 2º ano do Ensino Médio Técnico em Informática para Internet - Marista Escolas Sociais (2/3)  
