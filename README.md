@@ -1,7 +1,7 @@
 # meu-perfil
 Repositório criado para minha biografia no GitHub.
 
-![Gif Criativo](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3NocTkyZ3RyMndidmg5bzV2Y2hwZXExNXphdG9id3M1ajJpeG9odCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VeT5jhseHD0W3dI7de/giphy.gif)
+![Meu Gif Animado](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3NocTkyZ3RyMndidmg5bzV2Y2hwZXExNXphdG9id3M1ajJpeG9odCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VeT5jhseHD0W3dI7de/giphy.gif)
 
 # 👋 Olá, eu sou o Vítor Gabriel de Souza
 
@@ -25,6 +25,11 @@ Repositório criado para minha biografia no GitHub.
 - [LinkedIn](https://www.linkedin.com/in/vitor-souza-018a8125b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - [E-mail](vitorgabrieldesouza2019@gmail.com)  
 
+## Badges 
+
+![GitHub followers](https://img.shields.io/github/followers/VitorSouza?style=social)
+![GitHub repo stars](https://img.shields.io/github/stars/VitorSouza?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/seuusuario?style=social)
 
 --
 ⭐ Fortes interesses em me aprimorar em áreas, Ex.: Economia, T.I. e Administração
