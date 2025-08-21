@@ -41,7 +41,7 @@ Repositório criado para minha biografia no GitHub.
 ## Como me encontrar
 - [LinkedIn](https://www.linkedin.com/in/vitor-souza-018a8125b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - [E-mail](vitorgabrieldesouza2019@gmail.com)
-- - [E-mail](gabriel.souza.vitor1809@escola.pr.gov.be)   
+- [E-mail](gabriel.souza.vitor1809@escola.pr.gov.be)   
 
 ## Badges 
 
