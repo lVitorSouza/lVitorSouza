@@ -13,7 +13,6 @@ Repositório criado para minha biografia no GitHub.
 - Desenvolvimento Web (HTML, CSS, JavaScript)  
 - Automação e Rotinas Administrativas  
 - Contabilidade e Rotinas Empresariais  
-- 
 
 ## 🔧 Tecnologias que estou aprendendo
 - HTML5  
