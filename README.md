@@ -24,6 +24,7 @@ Repositório criado para minha biografia no GitHub.
 - JavaScript
 - Astah
 - MySQL
+- VScode
 
 
 ## 🌟 Interesses
