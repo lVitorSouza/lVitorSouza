@@ -5,9 +5,26 @@ Repositório criado para minha biografia no GitHub.
 
 # 👋 Olá, eu sou o Vítor Gabriel de Souza
 
+📊 Formação Técnica em Contabilidade - Unicesumar (1/2)   
+
 🎓 Estudante do 2º ano do Ensino Médio Técnico em Informática para Internet - Marista Escolas Sociais (2/3)  
 
-📊 Formação Técnica em Contabilidade - Unicesumar (1/2)   
+## Projetos na Área 
+
+- Criação de Calendários 
+- Banco de Dados em projetos escolares, Ex.: Trabalhos sobre Ecologia Integral
+- Criação de Páginas Web
+- Diagramas de Caso de uso
+- Formulários de Cadastro
+
+
+## Tecnologias usadas
+- HTML
+- CSS
+- JavaScript
+- Astah
+- MySQL
+
 
 ## 🌟 Interesses
 - Desenvolvimento Web (HTML, CSS, JavaScript)  
