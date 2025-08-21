@@ -23,8 +23,6 @@ Repositório criado para minha biografia no GitHub.
 - [LinkedIn](https://www.linkedin.com/in/vitor-souza-018a8125b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - [E-mail](vitorgabrieldesouza2019@gmail.com)  
 
-https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3NocTkyZ3RyMndidmg5bzV2Y2hwZXExNXphdG9id3M1ajJpeG9odCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VeT5jhseHD0W3dI7de/giphy.gif
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=IVitorSouza&show_icons=true)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=IVitorSouza)
+
 --
 ⭐ Fortes interesses em me aprimorar em áreas, Ex.: Economia, T.I. e Administração
