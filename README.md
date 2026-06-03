@@ -76,6 +76,7 @@ Tenho interesse em **Desenvolvimento Web**, **Suporte Técnico/ Central de Atend
 **Formação**
 - Ensino Médio Técnico em Informática para Internet — Marista Irmão Acácio *(conclusão: Dez/2026)*
 - Técnico em Administração — Senac PR *(conclusão prevista: Jul/2027)*
+
 **Experiência**
 - Jovem Aprendiz — Clamed Farmácias *(Fev/2026 – Atual)*
 - Auxiliar Administrativo Aprendiz — Centro Contábil *(Fev/2025 – Jul/2025)*
