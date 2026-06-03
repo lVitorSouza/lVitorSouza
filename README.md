@@ -22,7 +22,7 @@
 
 Sou estudante do 3º ano do Ensino Médio Técnico em Informática para Internet no Marista Irmão Acácio, e estou cursando Técnico em Administração pelo Senac PR. Atualmente trabalho como Jovem Aprendiz na Clamed Farmácias, onde lido com atendimento, estoque e sistemas PDV no dia a dia.
 
-Tenho interesse em **Desenvolvimento Web**, **Suporte Técnico/ Central de Atendimento** e **Redes e Sistemas**, e estou sempre buscando aprender mais sobre tecnologia.
+Tenho interesse em **Desenvolvimento Web**, **Suporte Técnico/ Central de Atendimento** **Redes ou Sistemas**, e estou sempre buscando aprender mais sobre tecnologia.
 
 ---
 
