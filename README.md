@@ -1,52 +1,87 @@
-# meu-perfil
-Repositório criado para minha biografia no GitHub.
+<h1 align="center">Fala, eu sou o Vítor Gabriel 👋</h1>
 
-![Meu Gif Animado](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3NocTkyZ3RyMndidmg5bzV2Y2hwZXExNXphdG9id3M1ajJpeG9odCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VeT5jhseHD0W3dI7de/giphy.gif)
+<p align="center">
+  Técnico em Informática para Internet &nbsp;|&nbsp; Desenvolvimento Web & Automação &nbsp;|&nbsp; Londrina – PR
+</p>
 
-# 👋 Olá, eu sou o Vítor Gabriel de Souza
+<p align="center">
+  <a href="https://www.linkedin.com/in/vitor-souza-018a8125b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:vitorgabrieldesouza2019@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://lvitorsouza.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-📊 Formação Técnica em Contabilidade - Unicesumar (1/2)   
+---
 
-🎓 Estudante do 2º ano do Ensino Médio Técnico em Informática para Internet - Marista Escolas Sociais (2/3)  
+## Sobre mim
 
-## Projetos na Área 
+Sou estudante do 3º ano do Ensino Médio Técnico em Informática para Internet no Marista Irmão Acácio, e estou cursando Técnico em Administração pelo Senac PR. Atualmente trabalho como Jovem Aprendiz na Clamed Farmácias, onde lido com atendimento, estoque e sistemas PDV no dia a dia.
 
-- Criação de Calendários 
-- Banco de Dados em projetos escolares, Ex.: Trabalhos sobre Ecologia Integral
-- Criação de Páginas Web
-- Diagramas de Caso de uso
-- Formulários de Cadastro
+Tenho interesse em **Desenvolvimento Web**, **Suporte Técnico** e **Automação de Processos**, e estou sempre buscando aprender mais sobre tecnologia.
 
+---
 
-## Tecnologias usadas
-- HTML
-- CSS
-- JavaScript
-- Astah
-- MySQL
-- VScode
+## 🛠️ Tecnologias & Ferramentas
 
+**Linguagens**
 
-## 🌟 Interesses
-- Desenvolvimento Web (HTML, CSS, JavaScript)  
-- Automação e Rotinas Administrativas  
-- Contabilidade e Rotinas Empresariais  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## 🔧 Tecnologias que estou aprendendo
-- HTML5  
-- CSS
-- Javascript  
-- Git & GitHub  
+**Banco de Dados**
 
-## Como me encontrar
-- [LinkedIn](https://www.linkedin.com/in/vitor-souza-018a8125b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- [E-mail](vitorgabrieldesouza2019@gmail.com)
-- [E-mail](gabriel.souza.vitor1809@escola.pr.gov.be)   
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## Badges 
+**Ferramentas & Sistemas**
 
-![GitHub followers](https://img.shields.io/github/followers/VitorSouza?style=social)
-![GitHub repo stars](https://img.shields.io/github/stars/VitorSouza?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/seuusuario?style=social)](https://twitter.com/seuusuario)
---
-⭐ Fortes interesses em me aprimorar em áreas, Ex.: Economia, T.I. e Administração
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+---
+
+## 📂 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| [Formulário com Validação](https://github.com/lVitorSouza/Formul-rio-Valida-o) | Formulário responsivo com validação client-side | HTML5, CSS3, JS |
+| [Formulário de Cadastro](https://github.com/lVitorSouza/Formul-rio-de-Cadastro) | Atividade de sala com proposta de cadastro | HTML, CSS |
+| [Bullying Escolar](https://github.com/lVitorSouza/Bullying-Escolar) | Primeiro projeto desenvolvido no VSCode | HTML |
+| [Cuidado Digital](https://github.com/lVitorSouza/Cuidado-Digital-Painel) | Painel desenvolvido em JavaScript | JavaScript |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lVitorSouza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lVitorSouza&layout=compact&langs_count=6&theme=tokyonight"/>
+</p>
+
+---
+
+## 🎓 Formação & Experiência
+
+**📚 Formação**
+- Ensino Médio Técnico em Informática para Internet — Marista Irmão Acácio *(conclusão: Dez/2026)*
+- Técnico em Administração — Senac PR *(conclusão prevista: Jul/2027)*
+
+**💼 Experiência**
+- **Jovem Aprendiz** — Clamed Farmácias *(Fev/2026 – Atual)*
+- **Auxiliar Administrativo Aprendiz** — Centro Contábil *(Fev/2025 – Jul/2025)*
+
+---
+
+<p align="center">
+  <i>⭐ Sempre em busca de aprender e crescer na área de T.I.</i>
+</p>
