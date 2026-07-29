@@ -1,4 +1,4 @@
-<h1 align="center">Fala Rede, eu sou o Vítor Gabriel 👋</h1>
+<h1 align="center">Eu sou o Vítor Gabriel 👋</h1>
 
 <p align="center">
   Técnico em Informática para Internet &nbsp;|&nbsp; Service Desk/Help Desk e Redes &nbsp;|&nbsp; Londrina – PR
